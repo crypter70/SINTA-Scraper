@@ -1,8 +1,7 @@
 # SINTA-Scraper
  
 ## Overview
-A program to retrieve university data and publication scores on the SINTA website using Scrapy. The website to be scraped is a static website, data is not loaded using javascript. 
-Therefore, Scrapy is a suitable choice because it has speed and efficiency for static data on websites.
+The program aimed to extract university data and publication scores from the SINTA website using Scrapy. The targeted website is static, and the data is not loaded using JavaScript, which makes Scrapy an appropriate choice due to its efficiency and speed in handling static data on websites. The extracted data included relevant data such as the university's name, location, and publication scores. The data was saved in CSV format for further processing and analysis.
 
 URL: https://sinta.kemdikbud.go.id/affiliations
 
